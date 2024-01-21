@@ -1,0 +1,28 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.navbar{
+background-color: rgb(232, 141, 248) !important;
+}
+.col-md-3 img{
+  border-radius: 40px;
+}
+input{
+  padding: 10px;
+  border-radius: 20px;
+  border: none;
+  width: 400px;
+}
+button{
+  background-color: rgb(232, 141, 248);
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  width: 200px;
+}
+.btn{
+  border-color: rgb(232, 141, 248);
+  border-radius: 20px;
+  width: 200px;
+}
